@@ -1,0 +1,10 @@
+* nsymbols
+
+A set of convenience functions to list class, variable, function, and other symbols from an arbitrary set of packages.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/nsymbols.git   |
+| commit  | b82f19b  |
+| systems | nsymbols |
+|---------+-------------------------------------------|
+
