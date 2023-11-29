@@ -4,6 +4,6 @@ A set of convenience functions to list class, variable, function, and other symb
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nsymbols.git |
-| commit  | c5d5f58                                            |
+| commit  | 85e7bac                                            |
 | systems | nsymbols                                           |
 |---------+----------------------------------------------------|
